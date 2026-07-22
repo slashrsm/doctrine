@@ -1,9 +1,11 @@
 # Port Doctrine ORM/ODM adapter
 
 [![Latest Version](https://img.shields.io/github/release/portphp/doctrine.svg?style=flat-square)](https://github.com/portphp/doctrine/releases)
-[![Build Status](https://travis-ci.org/portphp/doctrine.svg)](https://travis-ci.org/portphp/doctrine)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/portphp/doctrine/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/portphp/doctrine/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/portphp/doctrine/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/portphp/doctrine/?branch=master)
+[![CI](https://github.com/portphp/doctrine/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/portphp/doctrine/actions/workflows/test.yml)
+[![PHP Version](https://img.shields.io/packagist/php-v/portphp/doctrine.svg?style=flat-square)](https://packagist.org/packages/portphp/doctrine)
+
+**Requirements:** PHP ^8.2 (tested on 8.2–8.5).
+
 
 Doctrine ORM/ODM reader and writer for [Port](https://github.com/portphp).
 
@@ -22,7 +24,7 @@ of the Composer documentation.
 
 ## Documentation
 
-Documentation is available at http://portphp.readthedocs.org.
+Documentation is available at https://portphp.readthedocs.io.
 
 ## Issues and feature requests
 
